@@ -1,0 +1,15 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.wrapper{
+	margin: 0 auto;
+}
+.cat, .out{
+	text-align: center;
+}
+.out{
+	padding-top: 25px;
+	font-size: 24px;
+	font-family: monospace;
+}
